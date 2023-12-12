@@ -15,6 +15,7 @@ int main () {
         case '+':
         result = num1 + num2;
         break;
+        // this is the next step 
         
         case '-': 
         result = num1 - num2;
